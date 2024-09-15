@@ -39,8 +39,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=6emrulhossain9&" alt="6emrulhossain9" /></p><p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=6emrulhossain9&show_icons=true&locale=en" alt="6emrulhossain9" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6emrulhossain9&" alt="6emrulhossain9" /></p><p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=6emrulhossain9&show_icons=true&locale=en" alt="6emrulhossain9" /></p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=6emrulhossain9&show_icons=true&locale=en&layout=compact" alt="6emrulhossain9" />
 </p>
