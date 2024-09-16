@@ -9,7 +9,7 @@
 
 <h3> <strong>ChatGPT Is My Best Friend</strong>😎</h3>
 
-<h3>📫 Contact me at <strong><a href="mailto:emrulhossain49@gmail.com">emrulhossain49@gmail.com</a></strong></h3>
+<h3>📧 Contact me at : <strong><a href="mailto:emrulhossain49@gmail.com">emrulhossain49@gmail.com</a></strong></h3>
 </div>
 <br>
 
@@ -54,9 +54,9 @@
 
 </div>
 
-<br>
 
-<br>
+
+
 <div align="center">
 
   ##  Streak Stats 	💪
@@ -64,16 +64,25 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=6emrulhossain9&theme=react&border=61dafb&hide_border=true" alt="6emrulhossain9"/>
 </div>
-<br>
 
-<br>
+
+
 
 
 <div align="center">
 
-  ##  Github Stats 	🦁
+  ##  Github Stats 	👾
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=6emrulhossain9&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </div>
-<br>
+
+
+<div align="center">
+
+  ## Most Used Languages 🌟
+  <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6emrulhossain9&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+      </div>
+      <br>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=6emrulhossain9&label=Profile%20views&color=0e75b6&style=flat" alt="6emrulhossain9" /> </p>
