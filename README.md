@@ -81,7 +81,7 @@
 
   ## Most Used Languages 🌟
   <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6emrulhossain9&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+      <img src="[https://github-readme-stats.vercel.app/api?username=6emrulhossain9&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true&hide=stars&token=YOUR_GITHUB_TOKEN)" />
       </div>
       <br>
 
