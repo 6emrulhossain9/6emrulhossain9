@@ -1,7 +1,7 @@
-<h1 align="center"><b>Hey there👋, I'm Emrul</b></h1>
+<h1 align="center"><b>⚡Emrul Hossain⚡</b></h1>
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;Aspiring%20Software%20Engineer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=25AEF3&vCenter=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;Aspiring%20Software%20Engineer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=00aaff&vCenter=true&size=25">
 </p>
 
 <div align="center">
@@ -54,35 +54,27 @@
 
 </div>
 
-
-
-
 <div align="center">
 
   ##  Streak Stats 	💪
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6emrulhossain9&theme=react&border=61dafb&hide_border=true" alt="6emrulhossain9"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6emrulhossain9&theme=aura&border=61dafb&hide_border=true" alt="6emrulhossain9"/>
 </div>
-
-
-
-
 
 <div align="center">
 
   ##  Github Stats 	👾
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=6emrulhossain9&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=6emrulhossain9&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura" />
 </div>
-
 
 <div align="center">
 
   ## Most Used Languages 🌟
   <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6emrulhossain9&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6emrulhossain9&layout=pie&theme=aura" />
       </div>
       <br>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=6emrulhossain9&label=Profile%20views&color=0e75b6&style=flat" alt="6emrulhossain9" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=6emrulhossain9&label=Profile%20views&color=8a2be2&style=plastic" /> </p>
