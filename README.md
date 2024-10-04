@@ -1,3 +1,8 @@
+<div align="center">
+  
+  ![Your GIF](https://github.com/6emrulhossain9/6emrulhossain9/blob/main/Vanilla%401x-1.0s-279px-250px.gif)
+  
+</div>
 <h1 align="center"><b>⚡Emrul Hossain⚡</b></h1>
 <br>
 <p align="center">
