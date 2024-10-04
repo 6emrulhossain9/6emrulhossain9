@@ -1,3 +1,5 @@
+[![Watch the video](https://img.youtube.com/vi/UJa80UPjREU/0.jpg)](https://youtu.be/UJa80UPjREU?si=TVUttEsC94xHzWmY)
+
 <h1 align="center"><b>⚡Emrul Hossain⚡</b></h1>
 <br>
 <p align="center">
