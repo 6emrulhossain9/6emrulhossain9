@@ -29,9 +29,16 @@
 </div>
 
 <br>
+
+<div align="center">
+  <h2 style="padding-top: 5px;">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="vertical-align: middle; margin-right: 5px;">
+    <b>Languages and Tools</b>
+  </h2>
+</div>
+
 <div align="center">
 
-## My Languages and Tools
 <a href="https://www.w3.org/html/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/></a><a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/></a><a href="https://www.cprogramming.com/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/></a><a href="https://www.python.org/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/></a><a href="https://github.com/" target="_blank" style="text-decoration:none;"><img src="https://github.com/6emrulhossain9/6emrulhossain9/blob/main/github.svg" alt="GitHub" width="60" height="60"/></a><a href="https://code.visualstudio.com/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/></a>
 
 
