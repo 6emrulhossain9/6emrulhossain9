@@ -8,14 +8,9 @@
 
 <div align="center">
 <h3>  Currently Learning <strong>Something</strong></h3>
-
 <h3> <strong>ChatGPT Is My Friend</strong>😎</h3>
-
-<h3>📧 Contact me at : <strong><a href="mailto:emrulhossain49@gmail.com" style="color:#8a2be2;">emrulhossain49@gmail.com</a></strong></h3>
-
+<!--<h3>📧 Contact me at : <strong><a href="mailto:emrulhossain49@gmail.com" style="color:#8a2be2;">emrulhossain49@gmail.com</a></strong></h3> -->
 </div>
-<br>
-
 <div align="center">
 
 ## Connect with me
@@ -41,11 +36,7 @@
 
 <a href="https://www.w3.org/html/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/></a><a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/></a><a href="https://www.cprogramming.com/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/></a><a href="https://www.python.org/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/></a><a href="https://github.com/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/></a><a href="https://code.visualstudio.com/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/></a>
 
-
 </div>
-
-
-
 
 <div align="center">
 
