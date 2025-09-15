@@ -3,12 +3,12 @@
   ![Emrul Hossain GIF](https://github.com/6emrulhossain9/6emrulhossain9/blob/main/Emrul-Hossain-2-crop.gif)
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;Aspiring%20CyberSecurity%20Expert;Learning%20Something%20New%20Everyday&font=Fira%20Code&center=true&width=440&height=45&color=8a2be2&vCenter=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;Aspiring%20CyberSecurity%20Expert;Learning%20Something%20New%20Everyday&font=Fira%20Code&center=true&width=500&height=45&color=8a2be2&vCenter=true&size=25">
 </p>
 
 <div align="center">
-<h3>  Currently Learning <strong>Something</strong></h3>
-<h3> <strong>ChatGPT Is My Friend</strong>😎</h3>
+<h3>Currently Learning Something</h3>
+<h3> <strong>AI Is My Friend</strong>😎</h3>
 <!--<h3>📧 Contact me at : <strong><a href="mailto:(Are you here for my email??)" style="color:#8a2be2;">emrulhossain49@gmail.com</a></strong></h3> -->
 </div>
 <div align="center">
