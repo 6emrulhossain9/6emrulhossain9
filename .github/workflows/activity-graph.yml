@@ -1,0 +1,24 @@
+name: Generate activity graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate activity graph
+        uses: Ashutosh00710/github-readme-activity-graph@v1.6.0
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: activity-graph-output
+          FILENAME: activity-graph.svg
+          THEME: tokyo-night
