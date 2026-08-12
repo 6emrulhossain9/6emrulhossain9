@@ -74,10 +74,12 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=6emrulhossain9&limit=5&theme=aura&combine_all_yearly_contributions=true" />
 </div>
 <br>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=6emrulhossain9&label=Visited&color=8a2be2&style=plastic" /> </p>
+
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/6emrulhossain9/6emrulhossain9/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/6emrulhossain9/6emrulhossain9/pacman-output/breakout-contribution-graph.svg?game=breakout">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/6emrulhossain9/6emrulhossain9/pacman-output/breakout-contribution-graph.svg?game=breakout">
 </picture>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=6emrulhossain9&label=Visited&color=8a2be2&style=plastic" /> </p>
