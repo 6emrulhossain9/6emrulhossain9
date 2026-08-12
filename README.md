@@ -13,68 +13,43 @@
 </div>
 <div align="center">
 
-## Connect with me
-<a href="https://linkedin.com/in/emrul-hossain-4a24aa202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrul-hossain-4a24aa202" height="50" width="60" /></a>
-<a href="https://twitter.com/6emrulhossain9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="6emrulhossain9" height="50" width="60" /></a>
-<a href="https://www.hackerrank.com/profile/emrulhossain49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emrulhossain49" height="50" width="60" /></a>
-<a href="https://leetcode.com/u/6emrulhossain9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="6emrulhossain9" height="50" width="60" /></a>
-<a href="https://codeforces.com/profile/6emrulhossain9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="6emrulhossain9" height="50" width="60" /></a>
-<a href="https://www.instagram.com/6emrulhossain9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="6emrulhossain9" height="50" width="60" /></a>
-<a href="https://www.facebook.com/6emrulhossain9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="6emrulhossain9" height="50" width="60" /></a>
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
-<br>
+###
 
-<div align="center">
-  <h2 style="padding-top: 5px;">
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="vertical-align: middle; margin-right: 5px;">
-    <b>Languages and Tools</b>
-  </h2>
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=6emrulhossain9&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/6emrulhossain9/6emrulhossain9/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/6emrulhossain9/6emrulhossain9/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
-<div align="center">
+###
 
-<a href="https://www.w3.org/html/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/></a><a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/></a><a href="https://www.cprogramming.com/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/></a><a href="https://www.python.org/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/></a><a href="https://github.com/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/></a><a href="https://code.visualstudio.com/" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/></a>
-
-</div>
-
-<div align="center">
-
-  ##  Streak Stats 	💪
-  <br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6emrulhossain9&theme=aura&border=ffffff" alt="6emrulhossain9"/>
-</div>
-
-<div align="center">
-
-  ##  Github Stats 	👾
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=6emrulhossain9&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura" />
-</div>
-
-<div align="center">
-
-  ## Most Used Languages 🌟
-  <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6emrulhossain9&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-      </div>
-      <br>
-<div align="center">
-
-### ✍️ Random Dev Quote
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=aura&border=ffffff"/>
-
-</div>
-
-<div align="center">
-
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=6emrulhossain9&limit=5&theme=aura&combine_all_yearly_contributions=true" />
-</div>
-<br>
-
+<br clear="both">
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/6emrulhossain9/6emrulhossain9/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
@@ -82,4 +57,56 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/6emrulhossain9/6emrulhossain9/pacman-output/breakout-contribution-graph.svg?game=breakout">
 </picture>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=6emrulhossain9&label=Visited&color=8a2be2&style=plastic" /> </p>
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/6emrulhossain9/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=%20&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://bsky.app/profile/6emrulhossain9.bsky.social" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="bluesky logo"  />
+  </a>
+  <a href="https://www.facebook.com/6emrulhossain9/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://instagram.com/6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRsqXhhSGqLnBqxNzdhKqdBnVmGMvTkTwRScTptqPZGzDJxZXjwrLrBxjnQZCfBhplJVvgg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://medium.com/@6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://hackerrank.com/profile/6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
+  </a>
+</div>
+
+###
+
+
+### ✍️Dev Quote
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=aura&border=ffffff"/>
+
+</div>
+
+<div align="center">
+
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:6emrulhossain9?theme=normal-1&padding=5&offset=0&scale=1&align=top&pixelated=0&darkmode=auto"  />
+</div>
+
+###
+
