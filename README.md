@@ -42,9 +42,11 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=6emrulhossain9&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=6emrulhossain9&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  /> 
   <img src="https://raw.githubusercontent.com/6emrulhossain9/6emrulhossain9/languages-output/languages.svg" height="140" alt="languages graph" />
-  <img src="https://raw.githubusercontent.com/6emrulhossain9/6emrulhossain9/activity-graph-output/activity-graph.svg" height="200" alt="activity graph" />
+  <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=6emrulhossain9&theme=tokyo-night&hide_border=true&hide_title=true"/>
+</p>
 </div>
 
 ###
