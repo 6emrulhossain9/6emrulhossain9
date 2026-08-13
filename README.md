@@ -62,36 +62,82 @@
 ###
 
 <div data-importer="socials" align="left">
+
+  <!-- GitHub -->
+  <a href="https://github.com/6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="GitHub logo" />
+  </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/6emrulhossain9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
   </a>
+
+  <!-- X -->
   <a href="https://x.com/6emrulhossain9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%20&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="X logo" />
   </a>
-  <a href="https://www.youtube.com/@6emrulhossain9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+
+  <!-- HackerOne -->
+  <a href="https://hackerone.com/6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerOne&logo=hackerone&label=&color=494649&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="HackerOne logo" />
   </a>
-  <a href="https://bsky.app/profile/6emrulhossain9.bsky.social" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="bluesky logo"  />
+
+  <!-- Bugcrowd -->
+  <a href="https://bugcrowd.com/6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Bugcrowd&logo=bugcrowd&label=&color=F26822&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Bugcrowd logo" />
   </a>
-  <a href="https://www.facebook.com/6emrulhossain9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+
+  <!-- Hack The Box -->
+  <a href="https://app.hackthebox.com/profile/6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Hack%20The%20Box&logo=hackthebox&label=&color=9FEF00&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Hack The Box logo" />
   </a>
-  <a href="https://instagram.com/6emrulhossain9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRsqXhhSGqLnBqxNzdhKqdBnVmGMvTkTwRScTptqPZGzDJxZXjwrLrBxjnQZCfBhplJVvgg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://medium.com/@6emrulhossain9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
-  </a>
-  <a href="https://hackerrank.com/profile/6emrulhossain9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
-  </a>
+
+  <!-- TryHackMe -->
   <a href="https://tryhackme.com/p/6emrulhossain9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88CC14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="TryHackMe logo" />
   </a>
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Codeforces logo" />
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo" />
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="YouTube logo" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram logo" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/6emrulhossain9/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Facebook logo" />
+  </a>
+
+  <!-- Threads -->
+  <a href="https://www.threads.com/@6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Threads logo" />
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@6emrulhossain9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Medium logo" />
+  </a>
+
+  <!-- Bluesky -->
+  <a href="https://bsky.app/profile/6emrulhossain9.bsky.social" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Bluesky logo" />
+  </a>
+
 </div>
 
 ###
